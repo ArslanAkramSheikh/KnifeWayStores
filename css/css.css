@@ -42,3 +42,13 @@ hr {
 h1{
     font-size: 100px;
 }
+#demo 
+{
+    
+    display: inline-block;
+    width: 50%;
+    padding: 5px 0px 0px 0px;
+    background-color: rgba(255, 255, 255, 0.17);
+    border-radius: 1%;
+    border: 1px solid rgba(255, 255, 255, 0.37);
+}
