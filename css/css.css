@@ -21,6 +21,13 @@ body, html {
     left: 16px;
 }
 
+.topleft img{
+    width: 30%;
+    height: 30%;
+    margin: 10px 10px;
+    border-radius: 10%;
+}
+
 .bottomleft {
     position: absolute;
     bottom: 0;
